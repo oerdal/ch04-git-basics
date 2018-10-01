@@ -24,3 +24,15 @@ breakfast today
 6. Using your terminal, add and commit the changes you've made to your repository
 
 7. Push changes up to GitHub
+
+## WHAT I ATE TODAY FOR BREAKFAST
+
+1. Oatmeal
+
+2. Leftover Thai Food
+
+3. Eggs
+
+4. Bacon
+
+5. Rice
